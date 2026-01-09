@@ -1,5 +1,4 @@
-body {
-@charset "utf-8";
+
 
 body { 
 background-color: pink;
@@ -12,7 +11,7 @@ h2 {
 }
 h2 {
 	font-family: 'Brush Script MT', cursive;
-	font-size: 30pt
+	font-size: 30pt;
 }
 img {
 	width: 330px;
@@ -37,4 +36,4 @@ ul li a {
   padding: 14px 16px;
   text-decoration: none;
 }
-}
+
