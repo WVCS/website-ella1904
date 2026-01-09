@@ -1,3 +1,40 @@
 body {
+@charset "utf-8";
 
+body { 
+background-color: pink;
+	font-style: italic;
+		color: #6C3C0A;
+	
+} 
+h2 {
+  text-shadow: 2px 2px #FFFAA0;
+}
+h2 {
+	font-family: 'Brush Script MT', cursive;
+	font-size: 30pt
+}
+img {
+	width: 330px;
+}
+img:hover {
+	border: dotted 10px #FFFAA0;
+	width: 400px;
+	border-radius: 70%;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  border: 1px solid #e7e7e7;
+  background-color: #f3f3f3;
+}
+
+ul li a {
+  display: block;
+  color: #666666;
+  padding: 14px 16px;
+  text-decoration: none;
+}
 }
